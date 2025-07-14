@@ -1,0 +1,6 @@
+{
+  "name": "PIANI VIRTUAL TOUR",
+  "description": "Un'applicazione web interattiva per mostrare i benefici di un servizio di tour virtuale attraverso piani tariffari (Base, Standard, Premium). Gli utenti possono interagire con le funzionalità per ottenere descrizioni dettagliate generate dall'IA.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
